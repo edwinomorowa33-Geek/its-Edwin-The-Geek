@@ -1,6 +1,6 @@
 # is-Edwin-The-Geek
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Omorowa Edwin </h1>
+<h1 align="center">Hi 👋, I'm  Edwin </h1>
 <h3 align="center">🚀 Frontend Engineer | 📊 Data Scientist | 🤖 AI Enthusiast | Researcher </h3>
 ---
 <!-- Intro Section -->
